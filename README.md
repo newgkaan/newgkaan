@@ -1,7 +1,24 @@
 <div align="center">
 
-# 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1020411305758314506)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=45&center=true&vCenter=true&width=1900&height=70&duration=6000&color=B0B0B0&background=00000000&lines=Hi+There!+%F0%9F%91%8B+I%27m+newgkaan!+Professional+coffee+drinker+%E2%98%95" />
+</h1>
+
+# 🌐 Socials 🍬
+<p>
+<a href="https://discord.gg/https://discordapp.com/users/1020411305758314506" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" height="25"/>
+</a>
+<a href="https://namemc.com/profile/AtomicKill7" target="_blank">
+  <img src="https://img.shields.io/badge/Minecraft-6DB33F?style=flat-square&logo=minecraft&logoColor=white" height="25"/>
+</a>
+<a href="https://www.mc-tr.com/uyeler/atomickill7.80824/" target="_blank">
+  <img src="https://img.shields.io/badge/MC--TR-FF6600?style=flat-square&logo=minecraft&logoColor=white" height="25"/>
+</a>
+<a href="https://soulcraft.network" target="_blank">
+  <img src="https://img.shields.io/badge/SoulCraft-9900FF?style=flat-square&logo=gamepad&logoColor=white" height="25"/>
+</a>
+</p>
 
 ---
 
@@ -36,7 +53,9 @@
 </table>
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=newgkaan&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/newgkaan/newgkaan/blob/output/github-snake-dark.svg)
+
+---
 
 </div>
